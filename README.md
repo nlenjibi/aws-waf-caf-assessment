@@ -79,7 +79,7 @@ The goal is to ensure the cloud migration aligns with AWS best practices across 
 
 _Diagram: `img.png` — shows VPC with public/private subnets, ALB, ASG, RDS (Multi-AZ), ElastiCache, CloudFront + WAF, CloudWatch & CloudTrail._
 
-If you prefer the editable source, see `architecture-diagram.drawio`.
+If you prefer the editable source, see `https://app.eraser.io/workspace/0gqFSJnHBTOL0Cq5j87y?origin=share`.
 
 ---
 

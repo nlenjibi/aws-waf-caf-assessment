@@ -87,6 +87,6 @@ This design ensures high availability, scalability, fault tolerance, operational
 
 ---
 
-# Reflection (150 Words)
+# Reflection 
 
 This lab reinforced that cloud migration is not simply about moving servers to AWS but about redesigning systems to leverage cloud-native best practices. The AWS Well-Architected Framework provides a structured method to evaluate architecture across reliability, security, performance, cost, and operational excellence. Meanwhile, the Cloud Adoption Framework emphasizes organizational readiness, governance, and people enablement. The most important lesson learned is that successful cloud transformation requires both technical and organizational alignment. Managed services such as RDS, Auto Scaling, and ElastiCache significantly enhance resilience and reduce operational complexity. Security and governance must be implemented from the beginning to avoid risks later. Overall, this exercise strengthened architectural thinking and the ability to communicate structured cloud design decisions effectively.
